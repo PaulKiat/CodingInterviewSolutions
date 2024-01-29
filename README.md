@@ -22,11 +22,11 @@ This repository contains comprehensive solutions for various coding interview pr
 | 7          | 128                |                |                           |
 | 8          | 256                |                |                           |
 | 10         | 1024               | 1 Thousand     | 1 KB                      |
-| 16         | 1,099,511,627,776  |                | 65 kb                     |
-| 20         |                    | 1 Million      | 1 mb                      |
-| 30         |                    | 1 Billion      | 1 GB                      |
-| 32         |                    |                | 4 GB                      |
-| 40         |                    | 1 Trillion     | 1 TB                      |
+| 16         | 65,536             |                | 64 KB                     |
+| 20         | 1,048,576          | 1 Million      | 1 MB                      |
+| 30         | 1,073,741,824      | 1 Billion      | 1 GB                      |
+| 32         | 4,294,967,296      |                | 4 GB                      |
+| 40         | 1,099,511,627,776  | 1 Trillion     | 1 TB                      |
 
 ## Problem Solving Steps
 
