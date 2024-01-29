@@ -12,7 +12,7 @@ This repository contains comprehensive solutions for various coding interview pr
 | Trees, Tries, & Graphs| Depth-First Search    | Memory (Stack vs. Heap)|
 | Stacks&Queues       | Binary Search         | Recursion              |
 | Heaps               | Merge Sort            | Dynamic Programming    |
-| Vectors/Array Lists | Quick Sort            | Big O Time&Space       |
+| Vectors/Array Lists | Quick Sort            | Big O Time & Space     |
 | Hash Tables         |                       |                        |
 
 ### Understanding Computer Memory
