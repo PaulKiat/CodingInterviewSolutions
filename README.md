@@ -9,12 +9,11 @@ This repository contains comprehensive solutions for various coding interview pr
 | Data Structures     | Algorithms            | Concepts               |
 |---------------------|-----------------------|------------------------|
 | Linked Lists        | Breadth-First Search  | Bit Manipulation       |
-| Trees,Tries,& Graphs| Depth-First Search    | Memory (Stack vs. Heap)|
+| Trees, Tries, & Graphs| Depth-First Search    | Memory (Stack vs. Heap)|
 | Stacks&Queues       | Binary Search         | Recursion              |
 | Heaps               | Merge Sort            | Dynamic Programming    |
 | Vectors/Array Lists | Quick Sort            | Big O Time&Space       |
 | Hash Tables         |                       |                        |
-| ...                 | ...                   | ...                    |
 
 ### Understanding Computer Memory
 
@@ -24,10 +23,10 @@ This repository contains comprehensive solutions for various coding interview pr
 | 8          | 256                |                |                           |
 | 10         | 1024               | 1 Thousand     | 1 KB                      |
 | 16         | 1,099,511,627,776  |                | 65 kb                     |
-| 20         | ...                | 1 Million      | 1 mb                      |
-| 30         | ...                | 1 Billion      | 1 GB                      |
-| 32         | ...                | ...            | 4 GB                      |
-| 40         | ...                | 1 Trillion     | 1 TB                      |
+| 20         |                    | 1 Million      | 1 mb                      |
+| 30         |                    | 1 Billion      | 1 GB                      |
+| 32         |                    |                | 4 GB                      |
+| 40         |                    | 1 Trillion     | 1 TB                      |
 
 ## Problem Solving Steps
 
